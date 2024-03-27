@@ -28,7 +28,7 @@ If you want to work with this project or create a version of it make sure to fol
    
     ```bash
         (env)$ git clone https://github.com/nishantminerva/Django-Blogsite.git
-        (env)$ cd Django-Blog-Application
+        (env)$ cd Django-Blogsite
     ```
 
 You have now successfully set up the project on your environment.
